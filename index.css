@@ -1,5 +1,23 @@
 body {
-    background : black;
-    color : white;
     margin : 0;
+    background: rgba(0, 195, 255, 0.952);
+}
+
+.div{
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    margin-top: 100px;
+}
+
+h1{
+    font-size: 18px;
+}
+
+h2{
+    font-size: 16px;
+}
+
+h3{
+    font-size: 12px;
 }
